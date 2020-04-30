@@ -4,6 +4,10 @@
 	"attributes": {
 		"className": {
 			"type": "string"
+		},
+		"showOnlyCurrentPageHeadings": {
+			"type": "boolean",
+			"default": false
 		}
 	},
 	"context": [ "postId" ]
